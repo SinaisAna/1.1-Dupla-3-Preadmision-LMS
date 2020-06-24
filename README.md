@@ -4,7 +4,7 @@
 
 ### Prueba de diagnóstico  
 
-<http://www.limni.net>
+<https://repl.it/@AnaGuanda/InfiniteProbableParameter>
 
 Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro usuario podrá identificar si es que tiene algunas de las dos enfermedades más comunes actualmente: coronavirus y dengue.
 
