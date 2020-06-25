@@ -1,4 +1,4 @@
-### 1.1-Dupla-3-Preadmisión
+### 1.1: Trío - Preadmisión
 
 ## PROYECTO TRIVIA: Prueba de diagnóstico
 
