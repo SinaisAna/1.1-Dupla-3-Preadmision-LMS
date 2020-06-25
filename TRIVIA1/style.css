@@ -1,0 +1,38 @@
+.todo{
+  background-color: #1179D4; 
+  background-image: url("fondo.jpg");
+  text-align: center;
+  font-family:cursive;
+  font-size: 2em;
+  color: black;
+}
+
+
+input[type=radio] {
+    width: 2em;
+    height: 2em;
+}
+
+
+#nombrePersona {
+  font-size: 1em;
+}
+
+
+.ocultar {
+  display: none;
+
+}
+
+
+.boton{
+	background-color: #11BC4B; 
+  border: none;
+  color: white;
+  font-family:cursive;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 18px;
+
+}
