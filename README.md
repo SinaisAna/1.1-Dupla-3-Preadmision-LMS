@@ -15,6 +15,8 @@ Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro
 
 ![](8.jpg)
 
+![](13.jpg)
+
 # 2. Testeamos y realizamos cambios
 
 ![](10.jpg)
