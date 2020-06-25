@@ -9,7 +9,7 @@
 Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro usuario podrá identificar si es que tiene algunas de las dos enfermedades más comunes actualmente: coronavirus y dengue.
 
 
-##Les adjuntamos unas fotos de nuestro proceso.
+## Adjuntamos unas fotos de nuestro proceso.
 
 1. Primeros bocetos
 
