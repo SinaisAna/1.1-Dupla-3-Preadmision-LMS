@@ -13,7 +13,7 @@ Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro
 
 ##Pimeros bocetos
 
-![Primeros bocetos](/ruta/a/la/imagen.jpg)
+![Primeros bocetos](cc.jpg)
 
 ![Texto alternativo](/ruta/a/la/imagen.jpg)
 
@@ -24,7 +24,12 @@ Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro
 
 ##Acercándonos al final.
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Texto alternativo](1.jpg)
+![Texto alternativo](2.jpg)
+![Texto alternativo](3.jpg)
+![Texto alternativo](4.jpg)
+![Texto alternativo](5.jpg)
+![Texto alternativo](6.jpg)
 
 ##¡Listo!
 
