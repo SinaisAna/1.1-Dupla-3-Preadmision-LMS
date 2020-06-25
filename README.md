@@ -11,7 +11,7 @@ Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro
 
 # 1. Primeros bocetos
 
-!(7.jpg)
+![7.jpg](
 
 !(8.jpg)
 
