@@ -1,4 +1,4 @@
-### 1.1-Dupla-3-Preadmision-LMS
+### 1.1-Dupla-3-Preadmisión
 
 ## PROYECTO "TRIVIA"
 
