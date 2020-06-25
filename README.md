@@ -25,6 +25,8 @@ Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro
 
 # 4. Ensayo y error.
 
+[](11.jpg)
+[](12.jpg)
 # 5. Acercándonos al final.
 
 ![](1.jpg)
