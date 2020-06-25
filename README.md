@@ -1,10 +1,8 @@
 ### 1.1-Dupla-3-Preadmisión
 
-## PROYECTO "TRIVIA"
+## PROYECTO TRIVIA: Prueba de diagnóstico
 
-### Prueba de diagnóstico  
-
-<https://repl.it/@AnaGuanda/InfiniteProbableParameter>
+<https://repl.it/@AnaGuanda/DapperChiefLeads>
 
 Nuestra trivia tiene la forma de una prueba rápida de diagóstico donde nuestro usuario podrá identificar si es que tiene algunas de las dos enfermedades más comunes actualmente: coronavirus y dengue.
 
